@@ -1,1 +1,1 @@
-print 'Hello Bioinformatics'
+print(Hello, Bioinformatics)
